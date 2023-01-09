@@ -22,3 +22,5 @@ sudo docker build - < Dockerfile
 sudo docker images
 sudo docker run -v "/path/to/exploit/code:/src/" -it --name [NEW CONTAINER NAME] [IMAGE ID]
 ```
+
+Use responsibly... **I MEAN IT!!**
