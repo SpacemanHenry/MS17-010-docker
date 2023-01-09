@@ -15,8 +15,8 @@ If you came here looking for the exploits themselves I recommend the following:
 https://github.com/worawit/MS17-010  
 https://www.exploit-db.com/exploits/42315 or the like  
 
-A brief set of usage instructions is as follows:
-This will create a container with your exploit code in `/src/`
+A brief set of usage instructions is as follows:  
+This will create a container with your exploit code in `/src/`  
 ```
 sudo docker build - < Dockerfile
 sudo docker images
