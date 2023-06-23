@@ -11,10 +11,6 @@ After a long time troubleshooting errors from MS17-010 exploit scripts, I cobble
 The dockerfile was built on top of an existing one for `python2` located here:  
 https://github.com/Docker-Hub-frolvlad/docker-alpine-python2  
 
-If you came here looking for the exploits themselves I recommend the following:  
-https://github.com/worawit/MS17-010  
-https://www.exploit-db.com/exploits/42315 or the like  
-
 A brief set of usage instructions is as follows:  
 This will create a container with your exploit code in `/src/`  
 ```
